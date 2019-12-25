@@ -7,6 +7,6 @@
       * NodeJS, Express
       * Apollo, GraphQL
     * Infra
-      * AWS, Docker
+      * AWS, Vagrant, Docker
   * UI/UX 관련
     * Adobe XD
